@@ -49,7 +49,7 @@ class Wunsch_Koala_Settings {
 	}
 	
 	static public function affiliateSection() {
-		echo '<p>Wenn du am <a href="http://www.wunsch-koala.de/affiliates" target="_blank">Wunsch Koala Affiliate Programm</a> teilnimmst, kannst du hier deine Affiliate Id eintragen. Du findest die Id auf der Übersicht Seite im Affiliate Bereich. Sowohl die Links per Shortcode, als auch die Autolinks werden dann automatisch in Affiliate Links umgewandelt.</p>';
+		echo '<p>Wenn du am <a href="http://www.wunsch-koala.de/affiliates/infos" target="_blank">Wunsch Koala Affiliate Programm</a> teilnimmst, kannst du hier deine Affiliate Id eintragen. Du findest die Id auf der Übersicht Seite im Affiliate Bereich. Sowohl die Links per Shortcode, als auch die Autolinks werden dann automatisch in Affiliate Links umgewandelt.</p>';
 	}
 	
 	static public function affiliateIdField() {
